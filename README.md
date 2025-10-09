@@ -4,7 +4,7 @@
 ## I'm Nathan
 - 📊 Applied Math @ BYU | 💻 CS Minor
 - 🔬 Undergraduate Researcher | Numerical Rootfinder
-- 💡 I love learning and helping others discover the simplify complex problems
+- 💡 I love learning and helping others discover how to simplify complex problems
 - 🏃 Running enthusiast
 
 ## I have experience in:
