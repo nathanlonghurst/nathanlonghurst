@@ -4,7 +4,8 @@
 - 💼 Software Engineer @ HEAL USA
 - 💡 I love learning and helping others discover how to simplify complex problems
 - 🏃 Running enthusiast
-- 
+
+
 ## I have experience in:
 ![My Skills](https://skillicons.dev/icons?i=java,python,cpp,mysql,linux,bash,pytorch,git,github&perline=12)
 
