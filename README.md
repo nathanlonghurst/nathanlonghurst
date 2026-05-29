@@ -1,7 +1,5 @@
-[![Photo](githubprof.png)](https://github.com/nlong1/nlong1/blob/main/githubprof.png)
+# NATHAN LONGHURST
 
-
-## I'm Nathan
 - 🎓 Applied & Computational Mathematics @ BYU | 💻 CS Minor
 - 💼 Software Engineer @ HEAL USA
 - 💡 I love learning and helping others discover how to simplify complex problems
