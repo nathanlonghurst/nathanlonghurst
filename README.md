@@ -19,4 +19,4 @@
 
 ### Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-j-longhurst/)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nathan-longhurst.com)
+[![Website](https://img.shields.io/badge/Website-0077B5?style=for-the-badge)](https://nathan-longhurst.com)
