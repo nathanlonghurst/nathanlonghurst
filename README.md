@@ -9,6 +9,7 @@
 ## I have experience in:
 ![My Skills](https://skillicons.dev/icons?i=java,python,cpp,mysql,linux,bash,pytorch,git,github&perline=12)
 
+
 ## Check out some of my projects:
 - Salt Lake Dust Modeling
 - Julia Numerical Rootfinder
@@ -18,3 +19,4 @@
 
 ### Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-j-longhurst/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://nathan-longhurst.com)
